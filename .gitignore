@@ -54,6 +54,7 @@ mlruns/
 *.h5
 .gstack/
 
+.env
 .link-cache.json
 .claude/
 
