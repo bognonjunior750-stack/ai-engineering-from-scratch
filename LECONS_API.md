@@ -7,15 +7,15 @@
 # 🔑 API AND KEYS API - BILAN COMPLET
 
 ## Table des matières
-1. [Qu'est-ce qu'une Clé API](#1-quest-ce-quune-clé-api)
-2. [Sécuriser les Clés API](#2-sécuriser-les-clés-api)
-3. [Variables d'Environnement](#3-variables-denvironnement)
-4. [SDK vs HTTP Brut](#4-sdk-vs-http-brut)
-5. [Comprendre le JSON](#5-comprendre-le-json)
-6. [Les Headers HTTP](#6-les-headers-http)
-7. [Gestion des Erreurs](#7-gestion-des-erreurs)
-8. [Obtenir une Clé API](#8-obtenir-une-clé-api)
-9. [Documentations](#9-documentations)
+[Qu'est-ce qu'une Clé API](#1-quest-ce-quune-clé-api)
+[Sécuriser les Clés API](#2-sécuriser-les-clés-api)
+[Variables d'Environnement](#3-variables-denvironnement)
+[SDK vs HTTP Brut](#4-sdk-vs-http-brut)
+[Comprendre le JSON](#5-comprendre-le-json)
+[Les Headers HTTP](#6-les-headers-http)
+[Gestion des Erreurs](#7-gestion-des-erreurs)
+[Obtenir une Clé API](#8-obtenir-une-clé-api)
+[Documentations](#9-documentations)
 
 ---
 
